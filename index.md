@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/shauryaparanjape/shauryapa
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+checkout my page [foodie](https://github.com/shauryaparanjape/shauryaparanjape.github.io/blob/master/Travelling%20foodie%20problem.ipynb)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
