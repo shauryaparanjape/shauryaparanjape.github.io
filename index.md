@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Shourya Paranjape's blog.
 
-You can use the [editor on GitHub](https://github.com/shauryaparanjape/shauryaparanjape.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Namaste!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As an aspiring data scientist here is a brief overview of the projects which I have done with respect to Data science
 
-### Markdown
-checkout my page [foodie](https://github.com/shauryaparanjape/shauryaparanjape.github.io/blob/master/Travelling%20foodie%20problem.ipynb)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+we
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shauryaparanjape/shauryaparanjape.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### List of projects.
+1. [The travelling foodie problem.](https://github.com/shauryaparanjape/shauryaparanjape.github.io/blob/master/Travelling%20foodie%20problem.ipynb)
+A project where beautiful piece of code that makes the decisions for you when you are hungry!
+2. [Matplotlib data visualization](https://github.com/shauryaparanjape/Michigan-Coursera-Data-Science/blob/master/Applied%20Plotting-%20Charting%20-%20Data%20Representation%20in%20Python/Week3/Assignment3.ipynb)
+An interactive data visual that I made as a part of the data science certification on Coursera. This visual focuses on creating the interactivity.
