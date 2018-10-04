@@ -1,8 +1,9 @@
-## Shourya Paranjape's blog.
+## The world is your oyster..
 
 Namaste!
 
-As an aspiring data scientist here is a brief overview of the projects which I have done with respect to Data science
+I am an aspiring data scientist and here is a brief overview of the projects which I have done!
+Feel free to go through them and drop me a message on what you think about it, or the areas which I could improve upon.
 
 we
 
