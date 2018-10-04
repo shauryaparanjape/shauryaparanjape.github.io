@@ -5,7 +5,6 @@ Namaste!
 I am an aspiring data scientist and here is a brief overview of the projects which I have done!
 Feel free to go through them and drop me a message on what you think about it, or the areas which I could improve upon.
 
-we
 
 ### List of projects.
 1. [The travelling foodie problem.](https://github.com/shauryaparanjape/shauryaparanjape.github.io/blob/master/Travelling%20foodie%20problem.ipynb)
